@@ -9,13 +9,13 @@ My preferred languages are **Java, Python, and C#**.
 
 **Technologies I Work With:**
 
-- **Container & Orchestration**: Docker, Portainer, Kubernetes  
+- **Container & Orchestration**: Docker, Portainer and Kubernetes  
 - **Networking & VPN**: Tailscale  
 
 ### Personal Projects  
 
 <p><a href="https://arbnor.me/"><img src="logos/personal-logo.png" height=48 align=left></a><b>Personal Website</b><br>
-Discover my journey in Business Informatics and Software Engineering. Explore my projects, skills, and connect with me.
+Explore my projects, skills, and connect with me.
 </p>
 
 > [!NOTE]  
