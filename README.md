@@ -9,5 +9,6 @@ My preferred languages are Java, Python and C#
 <p><a href="https://arbnor.me/"><img src="logos/personal-logo.png" height=48 align=left></a><b>Personal Website</b><br>
 Discover my journey in Business Informatics and Software Engineering. Explore my projects, skills, and connect with me.
 </p>
+
 > [!NOTE]
 > Please note that the website is currently offline for maintenance and updates.
