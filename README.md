@@ -1,5 +1,5 @@
-Hi, I am [Arbnor](https://arbnor.me/) 👋.
-I am a dual student at [FHDW Bergisch Gladbach](https://www.fhdw.de/bergisch-gladbach) and work at [Bayer AG](https://www.bayer.com/).
+Hi, I am [Arbnor](https://arbnor.me/) 👋.<br>
+I am a dual student at [FHDW Bergisch Gladbach](https://www.fhdw.de/bergisch-gladbach) and work at [Bayer AG](https://www.bayer.com/).<br>
 I’m studying Business Informatics with a focus on Software Engineering.
 
 I enjoy exploring new technologies and creating innovative solutions as part of my studies and work experience.
