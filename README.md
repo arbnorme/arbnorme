@@ -4,7 +4,7 @@ I’m studying Business Informatics with a focus on Software Engineering.
 
 I enjoy exploring new technologies and creating innovative solutions as part of my studies and work experience.
 
-My preferred languages are **Java, Python, and C#**.
+My preferred languages are **Java, Python and C#**.
 
 ### Personal Projects
 
