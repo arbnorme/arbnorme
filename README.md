@@ -4,9 +4,6 @@ I’m studying Business Informatics with a focus on Software Engineering.
 
 ### Personal Projects
 
-- <p> <a href="https://arbnor.me/"><img src="logos/personal-logo.png" height="48" align="left"></a> <b>Personal Website</b><br> Showcasing my projects, skills, and ways to reach me. </p>
+- <p> <a href="https://arbnor.me/"><img src="logos/personal-logo.png" height="48" align="left"></a> <b>Personal Website</b><br> Ways to reach me. </p>
 
 - <p> <a href="https://github.com/arbnorme/tank-orakel">Tankpreis-Prognose mit Prophet</a><br> A project developed together with <a href="https://github.com/noelklc">Noel Keilus Crepso</a>. </p>
-
-> [!NOTE]
-> Please note that the website is currently offline for maintenance and updates.
