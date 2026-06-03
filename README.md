@@ -2,7 +2,7 @@
 
 <p align="center">
   Dual student in <b>Business Informatics</b> @ <a href="https://www.fhdw.de/bergisch-gladbach">FHDW Bergisch Gladbach</a> · DevOps @ <b><a href="https://www.bayer.com/">Bayer AG</a></b><br>
-  Dev who runs more servers at home than strictly necessary 🏠
+  Dev who runs more servers at home than strictly necessary
 </p>
 
 ## About
