@@ -11,7 +11,6 @@
 const user = {
   role: "Business Informatics Student",
   company: "Bayer AG",
-  currently: "Dagster on EKS",
   code: ["Python", "C#", "SQL"],
   tools: ["FastAPI", "Docker", "Kubernetes", "Terraform"],
 }
