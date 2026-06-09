@@ -12,8 +12,10 @@ const user = {
   role: "Business Informatics Student",
   company: "Bayer AG",
   code: ["Python", "C#", "SQL"],
-  tools: ["FastAPI", "Docker", "Kubernetes", "Terraform"],
-}
+  tools: ["FastAPI", "Docker", "React"],
+  homelab: ["Proxmox", "TrueNAS", "k3s", "Traefik", "Netbird"],
+  currentlyLearning: ["OpenTofu", "Platform Engineering"],
+};
 ```
 
 ## Links
